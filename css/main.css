@@ -52,7 +52,7 @@
 
 	
 
-	}
+	
    
     .logo1 {
 		display: flex;
@@ -66,8 +66,17 @@
 		border-radius: 25px;
        
 	}
-    
-    
+    .mine-cta{
+		display: inline-flex;
+		text-align: center;
+		margin: 0 auto;
+		margin-left: 20%;
+	}
+    .span-cta{
+
+		text-align:center;
+
+	}
     
 
 
